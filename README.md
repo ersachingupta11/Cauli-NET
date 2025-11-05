@@ -9,7 +9,7 @@ The defect recognition accuracy of the proposed Cauli-NET method has been valida
 The Cauli-NET method has the following structure:
 - `.py files`: `.py` scripts with training, inference, and image processing functions
 - `Exemplary Datafiles/`: input data (images are not included due to size constraints) from each class of VegNet dataset
-- `Dataset Link/`: Contains the URLs for the public datasets and can be downloaded  [VegNet](https://www.sciencedirect.com/science/article/pii/S2352340922008629).
+- `Dataset Link/`: Contains the URLs for the public datasets and can be downloaded  [VegNet](https://www.sciencedirect.com/science/article/pii/S2352340922006199).
 - `pretrainedmodels/`: weights and configurations of models pre-trained on external datasets
 
 # Install Dependencies
